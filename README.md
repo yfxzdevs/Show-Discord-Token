@@ -1,4 +1,4 @@
-# 🔑 Mostrar Token do Discord
+# 🔑 Show Discord Token
 ---
 ## Feito por [yFxZ](https://yfxz.xyz)
 
@@ -19,6 +19,12 @@
 
 - Por que o código está obfuscado?
     - Somente para manter minha marca d'água. Caso você tente desobfuscá-lo, pode ter certeza de que não encontrará nenhuma conexão externa.
+
+### Acesse [yFxZ Hub](yfxz.store) 🍪
+
+<div align="center">
+  <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF">
+</div>
 
 ### Acesse [yFxZ Hub](https://yfxz.store) 🍪
 
