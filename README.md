@@ -1,8 +1,5 @@
-
-
----
-
 # 🔑 Mostrar Token do Discord
+---
 ## Feito por [yFxZ](https://yfxz.xyz)
 
 - Feito para facilitar a visualização do token do seu Discord.
