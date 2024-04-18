@@ -8,7 +8,7 @@
     - No seu teclado de o comando `Cntrl + Shift + i` para abrir o DevTools.
     - Clique no modo Console.
     - E cole o código `ShowToken.js` e pressione o `Enter`.
-    - Caso apareça esse erro (Bloqueando você de colar...):
+    - Caso apareça esse erro (Bloqueando você de colar...):\n
 `Warning: Don’t paste code into the DevTools Console that you don’t understand or haven’t reviewed yourself. This could allow attackers to steal your identity or take control of your computer. Please type ‘allow pasting’ below to allow pasting.`
     - Escreva esse seguinte comando `allow pasting` (caso apareça um erro apenas ignore)
 
