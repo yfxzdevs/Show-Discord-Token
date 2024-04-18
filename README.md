@@ -1,25 +1,29 @@
-# 🔑 Show Discord Token
+
+
+---
+
+# 🔑 Mostrar Token do Discord
 ## Feito por [yFxZ](https://yfxz.xyz)
 
--  Feito para facilitar a visulização do token do seu Discord.
-    - Funcional somente  na versão Web.
+- Feito para facilitar a visualização do token do seu Discord.
+    - Funcional somente na versão Web.
 - Como usar?
     - Abra o Discord no seu navegador.
-    - No seu teclado de o comando `Cntrl + Shift + i` para abrir o DevTools.
+    - No seu teclado, pressione `Ctrl + Shift + i` para abrir o DevTools.
     - Clique no modo Console.
-    - E cole o código `ShowToken.js` e pressione o `Enter`.
+    - Cole o código `ShowToken.js` e pressione `Enter`.
     - Caso apareça esse erro (Bloqueando você de colar...):
-`Warning: Don’t paste code into the DevTools Console that you don’t understand or haven’t reviewed yourself. This could allow attackers to steal your identity or take control of your computer. Please type ‘allow pasting’ below to allow pasting.`
-    - Escreva esse seguinte comando `allow pasting` (caso apareça um erro apenas ignore)
+`Warning: Não cole código no Console do DevTools que você não entendeu ou não revisou. Isso poderia permitir que invasores roubassem sua identidade ou assumissem o controle do seu computador. Por favor, digite 'allow pasting' abaixo para permitir a colagem.`
+    - Escreva o seguinte comando: `allow pasting` (caso apareça um erro, apenas ignore)
 
 - Sobre:
-    - Exibe seu token do discord de forma bonita.
-    - Feita com CSS e JS.
+    - Exibe seu token do Discord de forma bonita.
+    - Feito com CSS e JS.
 
-- Porque o código esta obofuscado?
-    - Somente para manter minha marca d'agua, caso você tente desobofuscar pode ter certeza que não ira encontrar nenhum tipo de conexão esterna.
+- Por que o código está obfuscado?
+    - Somente para manter minha marca d'água. Caso você tente desobfuscá-lo, pode ter certeza de que não encontrará nenhuma conexão externa.
 
-### Acesse [yFxZ Hub](yfxz.store) 🍪
+### Acesse [yFxZ Hub](https://yfxz.store) 🍪
 
 <div align="center">
   <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF">
