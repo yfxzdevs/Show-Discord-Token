@@ -20,6 +20,8 @@
 - Por que o código está obfuscado?
     - Somente para manter minha marca d'água. Caso você tente desobfuscá-lo, pode ter certeza de que não encontrará nenhuma conexão externa.
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/OH15Ltd" data-context="false" ><a href="//imgur.com/a/OH15Ltd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ### Acesse [yFxZ Hub](yfxz.store) 🍪
 
 <div align="center">
