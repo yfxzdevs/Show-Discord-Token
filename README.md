@@ -21,9 +21,9 @@
     - Somente para manter minha marca d'água. Caso você tente desobfuscá-lo, pode ter certeza de que não encontrará nenhuma conexão externa.
 
 
-- Clique aqui <a href="https://imgur.com/oURd3Kj">
+- Clique aqui  <a href="https://imgur.com/oURd3Kj">
   <img src="https://www.iconsdb.com/icons/preview/white/video-play-xxl.png" alt="Texto alternativo" width="20" height="20">
-</a> para acessar o tutorial
+</a>  para acessar o tutorial
 
 ### Acesse [yFxZ Hub](yfxz.store) 🍪
 
