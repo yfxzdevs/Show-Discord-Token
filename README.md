@@ -20,9 +20,7 @@
 - Por que o código está obfuscado?
     - Somente para manter minha marca d'água. Caso você tente desobfuscá-lo, pode ter certeza de que não encontrará nenhuma conexão externa.
 
-<div align="center">
-  <img src="https://imgur.com/oURd3Kj" alt="Hello Kitty GIF">
-</div>
+[![Texto alternativo](https://i.imgur.com/oURd3Kj.png)](https://imgur.com/oURd3Kj)
 
 ### Acesse [yFxZ Hub](yfxz.store) 🍪
 
