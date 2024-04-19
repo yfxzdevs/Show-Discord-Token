@@ -25,6 +25,8 @@
   <img src="https://www.iconsdb.com/icons/preview/white/video-play-xxl.png" alt="Texto alternativo" width="20" height="20">
 </a>  para acessar o tutorial
 
+---
+
 ### Acesse [yFxZ Hub](yfxz.store) 🍪
 
 <div align="center">
