@@ -20,9 +20,9 @@
 - Por que o código está obfuscado?
     - Somente para manter minha marca d'água. Caso você tente desobfuscá-lo, pode ter certeza de que não encontrará nenhuma conexão externa.
 
-- Clique aqui para acessar o tutorial ⬇️
-<a href="https://imgur.com/oURd3Kj">
-  <img src="https://www.iconsdb.com/icons/preview/white/video-play-xxl.png" alt="Texto alternativo" width="10" height="10">
+
+- Clique aqui para acessar o tutorial ⬇️ <a href="https://imgur.com/oURd3Kj">
+  <img src="https://www.iconsdb.com/icons/preview/white/video-play-xxl.png" alt="Texto alternativo" width="24" height="24">
 </a>
 
 ### Acesse [yFxZ Hub](yfxz.store) 🍪
